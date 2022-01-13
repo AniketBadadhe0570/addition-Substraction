@@ -1,0 +1,8 @@
+.container{
+    position: absolute;
+    right:270px ;
+    height: 380px;
+    width: 350px;
+    margin: 80px auto;
+    background:rgb(94, 204, 90);
+  }
